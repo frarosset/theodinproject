@@ -19,4 +19,8 @@ The main projects are reported next.
 This is a basic recipes website created with simple HTML and CSS.<br/>
 See the [dedicated repository](https://github.com/frarosset/odin-recipes).
 
+2. ***Landing Page***<br/>
+This is a landing page website created with HTML, CSS and flexboxes.<br/>
+See the [dedicated repository](https://github.com/frarosset/landing-page).
+
 *[To be done...]*
