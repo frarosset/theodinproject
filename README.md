@@ -23,4 +23,32 @@ See the [dedicated repository](https://github.com/frarosset/odin-recipes).
 This is a landing page website created with HTML, CSS and flexboxes.<br/>
 See the [dedicated repository](https://github.com/frarosset/landing-page).
 
+3. ***Rock Paper Scissors***<br/>
+This is a Rock Paper Scissors game website created with HTML, CSS, Javascript and flexboxes.<br/>
+See the [dedicated repository](https://github.com/frarosset/rock-paper-scissors).
+
+4. ***Etch-a-Sketch***<br/>
+This is a Etch-a-Sketch website created with HTML, CSS, Javascript and flexboxes.<br/>
+See the [dedicated repository](https://github.com/frarosset/etch-a-sketch).
+
+*[To be completed...]*
+
+6. ***Calculator***<br/>
+This is a Calculator website created with HTML, CSS, Javascript and flexboxes.<br/>
+See the [dedicated repository](https://github.com/frarosset/calculator).
+
+## Full Stack JavaScript
+
+This part focus on the essential tools to build websites, including:
+* intermediate/advanced HTML;
+* intermediate/advanced CSS;
+* intermediate/advanced Javascript;
+* React;
+* NodeJS;
+* Getting hired.
+
+> See [here](https://www.theodinproject.com/paths/foundations/courses/foundations) for more details.
+
+The main projects are reported next.
+
 *[To be done...]*
