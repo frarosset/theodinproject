@@ -45,8 +45,9 @@ and the [live preview](http://frarosset.github.io/calculator).
 The [Full Stack JavaScript path](https://www.theodinproject.com/paths/full-stack-javascript) focus on the essential tools to build websites, including:
 * intermediate/advanced HTML;
 * intermediate/advanced CSS;
-* intermediate/advanced Javascript;
+* Javascript;
 * React;
+* Databases;
 * NodeJS;
 * Getting hired.
   
@@ -76,8 +77,6 @@ This is an Tic Tac Toe game website created with HTML, CSS, and Javascript.<br/>
 See the [dedicated repository](https://github.com/frarosset/tic-tac-toe)
 and the [live preview](http://frarosset.github.io/tic-tac-toe).
 
-   ${\textsf{\color{orange}(To be completed...)}}$
-
 3. ***Restaurant page***<br/>
 This is a Restaurant page website created with HTML, CSS, Javascript, and Webpack.<br/>
 See the [dedicated repository](https://github.com/frarosset/restaurant-page)
@@ -88,11 +87,53 @@ This is an todo list website created with HTML, CSS, Javascript, and Webpack.<br
 See the [dedicated repository](https://github.com/frarosset/todo-list)
 and the [live preview](http://frarosset.github.io/todo-list).
 
-   ${\textsf{\color{orange}(To be completed...)}}$
+4. ***Dynamic User Interface: drop-down menu and image carousel***<br/>
+This is an assignment which defines a drop-down menu module and an image carousel module and displays them in a website, created with HTML, CSS, Javascript.<br/>
+See the [dedicated repository](https://github.com/frarosset/dynamic-user-interface)
+and the [live preview](http://frarosset.github.io/dynamic-user-interface).
 
-${\textsf{\color{red}(I'm here. The next is yet to be done...)}}$
+4. ***Working With APIs: CuteCats***<br/>
+This is an assignment to practice working with APIs, which creates a webpage showing cat GIFs (powered by Giphy), created with HTML, CSS, Javascript.<br/>
+See the [dedicated repository](https://github.com/frarosset/cute-cats)
+and the [live preview](http://frarosset.github.io/cute-cats).
+
+5. ***Weather App***<br/>
+This is a weather app created with HTML, CSS, Javascript, and Webpack.<br/>
+See the [dedicated repository](https://github.com/frarosset/weather-app)
+and the [live preview](http://frarosset.github.io/weather-app).
+
+6. ***Recursion***<br/>
+This is an exercise written in Javascript.<br/>
+See the [dedicated repository](https://github.com/frarosset/recursion).
+
+7. ***Linked Lists***<br/>
+This is an exercise written in Javascript.<br/>
+See the [dedicated repository](https://github.com/frarosset/linked-lists).
+
+8. ***HashMap***<br/>
+This is an exercise written in Javascript.<br/>
+See the [dedicated repository](https://github.com/frarosset/hashmap).
+
+9. ***Binary Search Tree***<br/>
+This is an exercise written in Javascript.<br/>
+See the [dedicated repository](https://github.com/frarosset/binary-search-tree).
+
+10. ***Knights Travails***<br/>
+This is an exercise written in Javascript.<br/>
+See the [dedicated repository](https://github.com/frarosset/knights-travails).
+
+11. ***Testing Practice***<br/>
+This is an exercise written in Javascript.<br/>
+See the [dedicated repository](https://github.com/frarosset/testing-practice).
+
+12. ***Battleship***<br/>
+This is a battleship game created with HTML, CSS, Javascript, Webpack, and applying TDD.<br/>
+See the [dedicated repository](https://github.com/frarosset/battleship)
+and the [live preview](http://frarosset.github.io/battleship).
 
 ### Advanced HTML and CSS Course
+
+${\textsf{\color{red}(I'm here. The next is yet to be done...)}}$
 
 ### React Course
 
