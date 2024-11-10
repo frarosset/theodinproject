@@ -77,15 +77,21 @@ This is an Tic Tac Toe game website created with HTML, CSS, and Javascript.<br/>
 See the [dedicated repository](https://github.com/frarosset/tic-tac-toe)
 and the [live preview](http://frarosset.github.io/tic-tac-toe).
 
+![frarosset github io_tic-tac-toe](https://github.com/user-attachments/assets/a491b4fc-fc4f-4ad6-91c4-2f5f9acbd8d9)
+
 3. ***Restaurant page***<br/>
 This is a Restaurant page website created with HTML, CSS, Javascript, and Webpack.<br/>
 See the [dedicated repository](https://github.com/frarosset/restaurant-page)
 and the [live preview](http://frarosset.github.io/restaurant-page).
 
+![frarosset github io_restaurant-page](https://github.com/user-attachments/assets/47dd9ca1-7c21-4573-ac2e-b9690f177adf)
+
 4. ***Todo List***<br/>
 This is an todo list website created with HTML, CSS, Javascript, and Webpack.<br/>
 See the [dedicated repository](https://github.com/frarosset/todo-list)
 and the [live preview](http://frarosset.github.io/todo-list).
+
+![frarosset github io_todo-list](https://github.com/user-attachments/assets/959a6ad6-823a-4c03-b3e0-a1d88f35e91e)
 
 4. ***Dynamic User Interface: drop-down menu and image carousel***<br/>
 This is an assignment which defines a drop-down menu module and an image carousel module and displays them in a website, created with HTML, CSS, Javascript.<br/>
@@ -101,6 +107,8 @@ and the [live preview](http://frarosset.github.io/cute-cats).
 This is a weather app created with HTML, CSS, Javascript, and Webpack.<br/>
 See the [dedicated repository](https://github.com/frarosset/weather-app)
 and the [live preview](http://frarosset.github.io/weather-app).
+
+![frarosset github io_weather-app](https://github.com/user-attachments/assets/95bd6e97-5ea0-4f77-a7ee-3b17dcc89be9)
 
 6. ***Recursion***<br/>
 This is an exercise written in Javascript.<br/>
@@ -130,6 +138,8 @@ See the [dedicated repository](https://github.com/frarosset/testing-practice).
 This is a battleship game created with HTML, CSS, Javascript, Webpack, and applying TDD.<br/>
 See the [dedicated repository](https://github.com/frarosset/battleship)
 and the [live preview](http://frarosset.github.io/battleship).
+
+![frarosset github io_battleship](https://github.com/user-attachments/assets/0b86f836-9747-4ee3-9b89-d2d523439e35)
 
 ### Advanced HTML and CSS Course
 
