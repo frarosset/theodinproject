@@ -155,9 +155,18 @@ and the [live preview](http://frarosset.github.io/battleship).
 
 ### Advanced HTML and CSS Course
 
-${\textsf{\color{red}(I'm here. The next is yet to be done...)}}$
+1. ***Homepage***<br/>
+This is a homepage website created with HTML, CSS, Javascript, and Webpack.<br/>
+See the [dedicated repository](https://github.com/frarosset/homepage)
+and the [live preview](http://frarosset.github.io/homepage).
+
+![frarosset github io_battleship](https://github.com/frarosset/homepage/raw/main/src/screenshot/frarosset.github.io_homepage.png)
 
 ### React Course
+
+${\textsf{\color{red}(I'm here. The next is yet to be done...)}}$
+
+### Databases
 
 ### NodeJS Course
 
