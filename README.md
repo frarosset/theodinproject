@@ -160,9 +160,16 @@ This is a homepage website created with HTML, CSS, Javascript, and Webpack.<br/>
 See the [dedicated repository](https://github.com/frarosset/homepage)
 and the [live preview](http://frarosset.github.io/homepage).
 
-![frarosset github io_battleship](https://github.com/frarosset/homepage/raw/main/src/screenshot/frarosset.github.io_homepage.png)
+![frarosset github io_homepage](https://github.com/frarosset/homepage/raw/main/src/screenshot/frarosset.github.io_homepage.png)
 
 ### React Course
+
+1. ***CV Application***<br/>
+This is a CV maker website created with HTML, CSS, Javascript, React and Vite.<br/>
+See the [dedicated repository](https://github.com/frarosset/cv-application)
+and the [live preview](http://cv-application-hazel.vercel.app).
+
+![cv-application-hazel.vercel.app](https://github.com/frarosset/cv-application/raw/main/src/screenshot/cv-application-hazel.vercel.app.png)
 
 ${\textsf{\color{red}(I'm here. The next is yet to be done...)}}$
 
