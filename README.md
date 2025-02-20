@@ -171,6 +171,13 @@ and the [live preview](http://cv-application-hazel.vercel.app).
 
 ![cv-application-hazel.vercel.app](https://github.com/frarosset/cv-application/raw/main/src/screenshot/cv-application-hazel.vercel.app.png)
 
+1. ***Memory Card***<br/>
+This is a memory card game created created with HTML, CSS, Javascript, React and Vite.<br/>
+See the [dedicated repository](https://github.com/frarosset/memory-card)
+and the [live preview](https://memory-card-nine-cyan.vercel.app/).
+
+![memory-card-nine-cyan.vercel.app](https://github.com/frarosset/memory-card/raw/main/public/screenshot/memory-card-nine-cyan.vercel.app_.png)
+
 ${\textsf{\color{red}(I'm here. The next is yet to be done...)}}$
 
 ### Databases
