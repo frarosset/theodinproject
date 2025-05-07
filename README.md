@@ -18,24 +18,24 @@ This is a basic recipes website created with simple HTML and CSS.<br/>
 See the [dedicated repository](https://github.com/frarosset/odin-recipes)
 and the [live preview](http://frarosset.github.io/odin-recipes).
 
-3. ***Landing Page***<br/>
+2. ***Landing Page***<br/>
 This is a landing page website created with HTML, CSS and flexboxes.<br/>
 See the [dedicated repository](https://github.com/frarosset/landing-page)
 and the [live preview](http://frarosset.github.io/landing-page).
 
-5. ***Rock Paper Scissors***<br/>
+3. ***Rock Paper Scissors***<br/>
 This is a Rock Paper Scissors game website created with HTML, CSS, Javascript and flexboxes.<br/>
 See the [dedicated repository](https://github.com/frarosset/rock-paper-scissors)
 and the [live preview](http://frarosset.github.io/rock-paper-scissors).
 
-7. ***Etch-a-Sketch***<br/>
+4. ***Etch-a-Sketch***<br/>
 This is a Etch-a-Sketch website created with HTML, CSS, Javascript and flexboxes.<br/>
 See the [dedicated repository](https://github.com/frarosset/etch-a-sketch)
 and the [live preview](http://frarosset.github.io/etch-a-sketch).
 
    ${\textsf{\color{orange}(To be completed...)}}$
 
-9. ***Calculator***<br/>
+5. ***Calculator***<br/>
 This is a Calculator website created with HTML, CSS, Javascript and flexboxes.<br/>
 See the [dedicated repository](https://github.com/frarosset/calculator)
 and the [live preview](http://frarosset.github.io/calculator).
@@ -64,7 +64,7 @@ and the [live preview](http://frarosset.github.io/sign-up-form).
 
 ![frarosset github io_sign-up-form](https://github.com/frarosset/sign-up-form/raw/main/screenshot/frarosset.github.io_sign-up-form.png)
 
-3. ***Admin Dashboard***<br/>
+2. ***Admin Dashboard***<br/>
 This is an Admin Dashboard website created with HTML, CSS, and Javascript.<br/>
 See the [dedicated repository](https://github.com/frarosset/admin-dashboard)
 and the [live preview](http://frarosset.github.io/admin-dashboard).
@@ -80,7 +80,7 @@ and the [live preview](http://frarosset.github.io/library).
 
 ![frarosset github io_library](https://github.com/frarosset/library/raw/main/screenshot/frarosset.github.io_library.png)
 
-3. ***Tic Tac Toe***<br/>
+2. ***Tic Tac Toe***<br/>
 This is an Tic Tac Toe game website created with HTML, CSS, and Javascript.<br/>
 See the [dedicated repository](https://github.com/frarosset/tic-tac-toe)
 and the [live preview](http://frarosset.github.io/tic-tac-toe).
@@ -101,52 +101,52 @@ and the [live preview](http://frarosset.github.io/todo-list).
 
 ![frarosset github io_todo-list](https://github.com/frarosset/todo-list/raw/main/src/screenshot/frarosset.github.io_todo-list.png)
 
-4. ***Dynamic User Interface: drop-down menu and image carousel***<br/>
+5. ***Dynamic User Interface: drop-down menu and image carousel***<br/>
 This is an assignment which defines a drop-down menu module and an image carousel module and displays them in a website, created with HTML, CSS, Javascript.<br/>
 See the [dedicated repository](https://github.com/frarosset/dynamic-user-interface)
 and the [live preview](http://frarosset.github.io/dynamic-user-interface).
 
 ![frarosset github io_dynamic-user-interface](https://github.com/frarosset/dynamic-user-interface/raw/main/screenshot/frarosset.github.io_dynamic-user-interface.png)
 
-4. ***Working With APIs: CuteCats***<br/>
+6. ***Working With APIs: CuteCats***<br/>
 This is an assignment to practice working with APIs, which creates a webpage showing cat GIFs (powered by Giphy), created with HTML, CSS, Javascript.<br/>
 See the [dedicated repository](https://github.com/frarosset/cute-cats)
 and the [live preview](http://frarosset.github.io/cute-cats).
 
 ![frarosset github io_cute_cats](https://github.com/frarosset/cute-cats/raw/main/screenshot/frarosset.github.io_cute-cats.png)
 
-6. ***Weather App***<br/>
+7. ***Weather App***<br/>
 This is a weather app created with HTML, CSS, Javascript, and Webpack.<br/>
 See the [dedicated repository](https://github.com/frarosset/weather-app)
 and the [live preview](http://frarosset.github.io/weather-app).
 
 ![frarosset github io_weather-app](https://github.com/frarosset/weather-app/raw/main/src/screenshot/frarosset.github.io_weather-app.png)
 
-6. ***Recursion***<br/>
+8. ***Recursion***<br/>
 This is an exercise written in Javascript.<br/>
 See the [dedicated repository](https://github.com/frarosset/recursion).
 
-7. ***Linked Lists***<br/>
+9. ***Linked Lists***<br/>
 This is an exercise written in Javascript.<br/>
 See the [dedicated repository](https://github.com/frarosset/linked-lists).
 
-8. ***HashMap***<br/>
+10. ***HashMap***<br/>
 This is an exercise written in Javascript.<br/>
 See the [dedicated repository](https://github.com/frarosset/hashmap).
 
-9. ***Binary Search Tree***<br/>
+11. ***Binary Search Tree***<br/>
 This is an exercise written in Javascript.<br/>
 See the [dedicated repository](https://github.com/frarosset/binary-search-tree).
 
-10. ***Knights Travails***<br/>
+12. ***Knights Travails***<br/>
 This is an exercise written in Javascript.<br/>
 See the [dedicated repository](https://github.com/frarosset/knights-travails).
 
-11. ***Testing Practice***<br/>
+13. ***Testing Practice***<br/>
 This is an exercise written in Javascript.<br/>
 See the [dedicated repository](https://github.com/frarosset/testing-practice).
 
-12. ***Battleship***<br/>
+14. ***Battleship***<br/>
 This is a battleship game created with HTML, CSS, Javascript, Webpack, and applying TDD.<br/>
 See the [dedicated repository](https://github.com/frarosset/battleship)
 and the [live preview](http://frarosset.github.io/battleship).
@@ -171,18 +171,28 @@ and the [live preview](http://cv-application-hazel.vercel.app).
 
 ![cv-application-hazel.vercel.app](https://github.com/frarosset/cv-application/raw/main/src/screenshot/cv-application-hazel.vercel.app.png)
 
-1. ***Memory Card***<br/>
-This is a memory card game created created with HTML, CSS, Javascript, React and Vite.<br/>
+2. ***Memory Card***<br/>
+This is a memory card game created with HTML, CSS, Javascript, React and Vite.<br/>
 See the [dedicated repository](https://github.com/frarosset/memory-card)
 and the [live preview](https://memory-card-nine-cyan.vercel.app/).
 
 ![memory-card-nine-cyan.vercel.app](https://github.com/frarosset/memory-card/raw/main/public/screenshot/memory-card-nine-cyan.vercel.app_.png)
 
-${\textsf{\color{red}(I'm here. The next is yet to be done...)}}$
+3. ***Shopping Cart***<br/>
+This is a shopping cart mock created with HTML, CSS, Javascript, React, React Router, Styled Components and Vite.<br/>
+See the [dedicated repository](https://github.com/frarosset/shopping-cart)
+and the [live preview](https://shopping-cart-two-pi-51.vercel.app/).
+
+![shopping-cart-two-pi-51.vercel.app](https://raw.githubusercontent.com/frarosset/shopping-cart/main/public/screenshot/shopping-cart-two-pi-51.vercel.app.png)
+
 
 ### Databases
 
+*No projects here.*
+
 ### NodeJS Course
+
+${\textsf{\color{red}(I'm here. The next is yet to be done...)}}$
 
 ### Getting Hired Course
 
