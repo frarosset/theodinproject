@@ -193,11 +193,18 @@ and the [live preview](https://shopping-cart-two-pi-51.vercel.app/).
 ### NodeJS Course
 
 1. ***Basic Informational Site***<br/>
-This is a basic informational site showing the Astronomical picture of the day from NASA created with HTML, CSS, Javascript. A very simple NodeJS server is setup, that serves the correct page of the site.<br/>
+This is a basic informational site showing the Astronomical picture of the day from NASA created with HTML, CSS, Javascript. A very simple NodeJS server is setup, that serves the correct page of the site. An Express variant has been setup, too. <br/>
 See the [dedicated repository](https://github.com/frarosset/basic-informational-site)
-and the [live preview (repl, to be started)](https://replit.com/@frarosset/basic-informational-site).
+and the [live preview](https://basic-informational-site-h4gd.onrender.com/) and [repl (to be started)](https://replit.com/@frarosset/basic-informational-site).
 
 ![https://replit.com/@frarosset/basic-informational-site](https://raw.githubusercontent.com/frarosset/basic-informational-site/main/public/screenshot/index.png)
+
+2. ***Mini Message Board***<br/>
+A mini message board is built using HTML, CSS, and JavaScript. A Node.js + Express server renders views with EJS and handles message storage using PostgreSQL.<br/>
+See the [dedicated repository](https://github.com/frarosset/mini-message-board)
+and the [live preview](https://mini-message-board-zq1g.onrender.com/).
+
+![mini-message-board-zq1g.onrender.com.png](https://raw.githubusercontent.com/frarosset/mini-message-board/refs/heads/main/screenshot/mini-message-board-zq1g.onrender.com.png)
 
 ${\textsf{\color{red}(I'm here. The next is yet to be done...)}}$
 
