@@ -33,7 +33,7 @@ This is a Etch-a-Sketch website created with HTML, CSS, Javascript and flexboxes
 See the [dedicated repository](https://github.com/frarosset/etch-a-sketch)
 and the [live preview](http://frarosset.github.io/etch-a-sketch).
 
-   ${\textsf{\color{orange}(To be completed...)}}$
+![frarosset github io_etch-a-sketch](https://github.com/frarosset/etch-a-sketch/raw/main/screenshot/frarosset.github.io_etch-a-sketch.png)
 
 5. ***Calculator***<br/>
 This is a Calculator website created with HTML, CSS, Javascript and flexboxes.<br/>
