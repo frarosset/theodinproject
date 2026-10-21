@@ -206,12 +206,19 @@ and the [live preview](https://mini-message-board-zq1g.onrender.com/).
 
 ![mini-message-board-zq1g.onrender.com.png](https://raw.githubusercontent.com/frarosset/mini-message-board/refs/heads/main/screenshot/mini-message-board-zq1g.onrender.com.png)
 
-2. ***Inventory Application***<br/>
+3. ***Inventory Application***<br/>
 A pizza inventory application is built using HTML, CSS, and JavaScript. A Node.js + Express server renders views with EJS and handles data storage using PostgreSQL.<br/>
 See the [dedicated repository](https://github.com/frarosset/inventory-application)
 and the [live preview](https://inventory-application-kefq.onrender.com).
 
 ![inventory-application-kefq.onrender.com.png](https://raw.githubusercontent.com/frarosset/inventory-application/refs/heads/main/screenshot/inventory-application-kefq.onrender.com.png)
+
+4. ***Members Only***<br/>
+A pizza inventory application is built using HTML, CSS, and JavaScript. A Node.js + Express server renders views with EJS and handles data storage using PostgreSQL. Authentication is handler through Passport.js, using the Local Strategy.<br/>
+See the [dedicated repository](https://github.com/frarosset/members-only)
+and the [live preview](https://members-only-ltzm.onrender.com).
+
+![members-only-ltzm.onrender.com.png](https://raw.githubusercontent.com/frarosset/members-only/refs/heads/main/screenshot/members-only-ltzm.onrender.com.png)
 
 ${\textsf{\color{red}(I'm here. The next is yet to be done...)}}$
 
